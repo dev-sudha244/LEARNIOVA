@@ -1,0 +1,12 @@
+streamlit
+# streamlit-components-v1
+python-dotenv
+google-generativeai
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+chromadb
+PyPDF2
+requests
